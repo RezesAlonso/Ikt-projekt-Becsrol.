@@ -1,0 +1,17 @@
+    .gallery-img {transition: transform .15s; }
+    .gallery-img:hover { transform: scale(1.03); }
+    
+    .modal-body { padding: 0; display:flex; justify-content:center; align-items:center; }
+    .modal-body img { width:100%; height:auto; max-height:80vh; object-fit:contain; }
+
+.container.py-5 {
+    background-color: rgb(222, 222, 222);
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.felirat{
+    margin-top: 15px;
+}
+body{
+    background-color: rgb(222, 222, 222);
+}

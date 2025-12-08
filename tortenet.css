@@ -1,0 +1,22 @@
+.lh-lg{
+    margin: 40px;
+}
+body{
+    margin: 40px;
+    background-color: rgb(222, 222, 222);
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+.container1{
+    margin-left: 1%;
+    
+}
+.szoveg3{
+    overflow: scroll;
+    overflow-y: auto;
+    max-height: 315px;
+    padding: 10px;
+}
